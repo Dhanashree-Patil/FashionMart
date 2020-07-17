@@ -1,0 +1,185 @@
+	*{
+		box-sizing:border-box;
+		margin:0px;
+		padding:0px;
+	}
+
+	body{
+			margin:0px;
+		}
+		
+	h1{
+		font-size:40px;
+	}
+	h5{
+		font-size:20px;
+	}
+	#header,form,h1,h5{
+		font-family: 'Playfair Display SC', serif;
+	}
+	#ul,p{
+		font-family: 'Philosopher', sans-serif;
+		font-size:16px;
+	}
+	
+	#header img{
+		width:90px;
+		height:90px;
+		margin-left:15px;
+	}
+	#header .navbar-brand{
+			font-size:2rem;
+			text-transform:uppercase;
+	}
+	#header .nav-link{
+		font-size:20px;
+	}
+	#slider img{
+		height:550px;
+	}
+	#about{
+		text-align:justify;
+		
+	}
+	#about h1{
+		text-align:center;
+		padding-top:35px;
+		padding-bottom:20px;
+	}
+	#about img{
+		margin-top:40px;
+		margin-bottom:30px;
+		padding-right:0px;
+	}
+	#about .para{
+		margin-left:10px;
+	}
+	
+	.background{
+    background-image: url("../img/background.jpg") ;
+    background-repeat: no-repeat;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+	}
+	
+	.background h1{
+		color: white;
+		margin: 0px;
+		text-align: center;
+		padding-top:60px;
+	}
+	
+	#ourteam{
+		text-align:center;
+		padding-top:35px;
+		padding-bottom:20px;
+	}
+	
+	#ourteam h1{
+		text-align:center;
+		padding-top:35px;
+		padding-bottom:20px;
+	}
+	
+	#ourteam p{
+		text-align:center;
+	}
+	
+	#ourteam img{
+		width:70%;
+		height:300px;
+		border-radius:50%;
+		margin-bottom:10px;
+	}
+	#ourteam img:hover{
+		box-shadow: 0px 0px 5px 1px black;
+	}
+	
+	
+	
+	#services{
+		text-align:center;
+		margin:0px;
+	}
+	#services h1{
+		text-align:center;
+		padding-top:35px;
+		padding-bottom:30px;
+	}
+
+	#services img{
+		width:70%;
+		height:300px;
+		border-radius:50%;
+		margin-top:20px;
+		margin-bottom:10px;
+	}
+	
+	#services .border1{
+		box-shadow: 0 0 6px 0px #000;
+		width:90%;
+		height:520px;
+		margin:10px;
+	}
+	
+	#footer img{
+		border-radius:50%;
+		height:80px;
+		width:80px;
+
+		margin-top:20px;
+		margin-bottom:10px;
+	}
+	
+	#footer{
+		background-color:#000;
+		margin-bottom:0px;
+		text-align:center;
+	}
+	
+	#footer p{
+		color:#fff;
+		line-height:10px;
+	}
+
+	#footer li{
+		line-height:40px;
+	}
+	
+	#footer h5{
+		padding-top:25px;
+	}
+	
+	
+	#socialapp a{
+		color:#fff;
+	}
+	#socialapp li{
+		margin-left:30px;
+		padding:5px;
+	}
+	#gallery{
+		text-align:center;
+	}
+	#gallery h1{
+		font-size:40px;
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+	#gallery img{
+		
+		height:330px;
+		width:230px;
+		margin-top:10px;
+		margin-bottom:15px;
+		margin-left:0px;
+		margin-right:0px;
+		
+	}
+	
+	
+
+	
+	
+
